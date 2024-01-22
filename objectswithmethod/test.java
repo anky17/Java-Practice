@@ -1,10 +1,10 @@
 package objectswithmethod;
 
-public class test {
+public class Test {
 	
 	public static void main(String[] args) {
 		
-		test t = new test();
+		Test t = new Test();
 		
 		Customer a = new Customer();
 		a = t.getEmp();

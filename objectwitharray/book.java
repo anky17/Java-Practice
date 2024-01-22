@@ -1,6 +1,6 @@
 package objectwitharray;
 
-public class book {
+public class Book {
 	
 	private String name;
 	private int bookID;

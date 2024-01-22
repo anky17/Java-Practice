@@ -1,6 +1,6 @@
-package control;
+package controlStatements;
 
-public class class1 {
+public class ControlStatementsDocs {
 /*
  * -----------CONTROL STATEMENTS-------------
  * 	----------------TYPES-----------

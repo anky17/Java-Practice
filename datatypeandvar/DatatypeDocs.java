@@ -1,6 +1,6 @@
 package datatypeandvar;
 
-public class datatype {
+public class DatatypeDocs {
 /*
  * -------------------Data Type------------------
  * # proper data representation

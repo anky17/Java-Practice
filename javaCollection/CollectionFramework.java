@@ -1,4 +1,4 @@
-package collection;
+package javaCollection;
 
 public class CollectionFramework {
 	

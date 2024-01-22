@@ -2,7 +2,7 @@
 package datatypeandvar;
 import java.util.Scanner;
 
-public class variable {
+public class VariableDocs {
 /*
  * #Type: 
  * a> Local variable

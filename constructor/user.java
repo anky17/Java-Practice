@@ -1,12 +1,12 @@
 package constructor;
 
-public class user {
+public class User {
 	
 	String userName;
 	String password;
 	
 	//parameterized constructor
-	user(String userName, String password){
+	User(String userName, String password){
 		
 		this.userName = userName;
 		this.password = password;
@@ -27,7 +27,7 @@ public class user {
 	
 	public static void main(String[] args) {
 	
-	user u1 = new user("ank","pass");
+	User u1 = new User("ank","pass");
 	//u1.password = "ankit";
 	//u1.userName = "Ankit Diyal";
 	u1.printUser();

@@ -1,6 +1,6 @@
 package constructor;
 
-public class constructordocs {
+public class ConstructorDocs {
 	
 	/*
 	 *                            --------Constructors--------
