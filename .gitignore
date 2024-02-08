@@ -1,0 +1,13 @@
+# Compiled Java class files
+*.class
+
+# Java archive files
+*.jar
+*.war
+
+# Eclipse project configuration files
+.project
+.classpath
+
+# IntelliJ IDEA project configuration directory
+.idea
